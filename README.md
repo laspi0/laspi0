@@ -1,8 +1,8 @@
-<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" with="800px" alt="Girl in a jacket">
 <h1 align="center">Hi 👋, I'm Lassana Diarra</h1>
 <h3 align="center">A passionate developer web/mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laspi0&label=Profile%20views&color=0e75b6&style=flat" alt="laspi0" /> </p>
+<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" with="800px">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laspi0" alt="laspi0" /></a> </p>
 
