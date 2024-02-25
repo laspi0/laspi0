@@ -1,5 +1,4 @@
-https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0
-
+<img src="https://th.bing.com/th/id/R.03a4a5f034bf0bafa661fd8a8aabedc8?rik=bIwoEoiJh1I1hQ&pid=ImgRaw&r=0" alt="Girl in a jacket" width="500" height="600">
 <h1 align="center">Hi 👋, I'm Lassana Diarra</h1>
 <h3 align="center">A passionate developer web/mobile</h3>
 
